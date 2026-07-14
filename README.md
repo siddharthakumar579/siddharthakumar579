@@ -42,7 +42,7 @@ const siddharthaKumar = {
   launchedProjects: ["Inter-Viewer-AI", "Vectorless_Pdf_RAG"],
 
   certifications: [Claude with Google Vertex AI - Anthropic
-AI Fluency: Framework and Foundations - Anthropic], //
+                  AI Fluency: Framework and Foundations - Anthropic],
 
   status: "Building AI-powered tools & RAG pipelines",
 
