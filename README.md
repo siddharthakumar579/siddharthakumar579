@@ -11,7 +11,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=siddharthakumar579&label=Profile%20Views&color=7dd3fc&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/siddharthakumar579?label=Followers&style=for-the-badge&color=7dd3fc&labelColor=0f172a" alt="Followers"/>
+<!-- <img src="https://img.shields.io/github/followers/siddharthakumar579?label=Followers&style=for-the-badge&color=7dd3fc&labelColor=0f172a" alt="Followers"/> -->
 
 </div>
 
