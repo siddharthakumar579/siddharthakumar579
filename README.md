@@ -81,7 +81,7 @@ A lightweight RAG (Retrieval-Augmented Generation) system that answers questions
 |---|---|
 | Retrieval | BM25 Keyword Retrieval (Vector-less RAG) |
 | Language Model | Gemini API |
-| Core Language | Python |
+| Core Language | JavaScript |
 | Input Handling | PDF Parsing |
 
 **🔗 Code:** [github.com/siddharthakumar579/Vectorless_Pdf_RAG](https://github.com/siddharthakumar579/Vectorless_Pdf_RAG)
